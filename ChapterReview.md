@@ -1,6 +1,8 @@
 # Assignment 1
-### Muhammad Mamdouh 
+### Mohamed Mamdouh
 ### sec 3
+### PN : 33820
+
 1) A class is a construct which defines data and behaviour for objects.
 
 2)abstruction means separating interface from implementation and this happens by classes as we separate implementation into class "functions" 
